@@ -18,6 +18,9 @@ https://www.kaggle.com/datasets/abecklas/fifa-world-cup/
 
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/a7468def-f636-4ee6-8672-97be854fe78d)
 
+    Output is:-
+Screenshot 2024-06-14 192341.png
+
     Which team won the World Cup in 2006, and who was the runner-up?
     
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/ea35824a-1db8-4332-be53-27dda7f5c07f)
