@@ -5,7 +5,8 @@
 This SQL case study analyzes data from FIFA World Cup tournaments. The dataset contains information about tournaments, matches, player lineups, and other events. The queries are intended to extract useful information on tournament winners, match specifics, player performance, and historical patterns.
 
 # Dataset Overview
-    Dataset Source: https://www.kaggle.com/datasets/abecklas/fifa-world-cup/
+    Dataset Source 
+https://www.kaggle.com/datasets/abecklas/fifa-world-cup/
     
 # Schema
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/9184e4f8-077d-495a-9f58-f93d108bdf7d)
