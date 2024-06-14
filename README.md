@@ -30,9 +30,13 @@ Output is:- https://tinyurl.com/gitoutput2
     
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/0a93fb94-83d9-4796-98f3-80ad8d4d2d48)
 
+Output is:- https://tinyurl.com/gitoutput3
+
     List all countries that finished in third place from 1990 to 2018.
     
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/7a6405d2-a09e-4ddb-8147-fbc53039fdd8)
+
+Output is:- https://tinyurl.com/gitoutput4
 
 # 2. Team Performance and Matches
     
@@ -40,18 +44,26 @@ Output is:- https://tinyurl.com/gitoutput2
 
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/893181f9-7315-4e4c-b844-46b969980e76)
 
+Output is:- https://tinyurl.com/gitoutput5
+
     Which stadium hosted the final match of the 1998 World Cup, and which teams played in the final?
     
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/2f490b9d-978b-494d-b68c-103232026b8c)
+
+Output is:- https://tinyurl.com/gitoutput6
 
     What was the attendance for the match between Brazil and Germany in the 2014 semi-finals?
 
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/19650dc1-cda0-4eba-98d7-9e996442e36b)
 
+Output is:- https://tinyurl.com/gitoutput7
+
     Identify the match with the highest number of goals scored in the 2002 World Cup.
     Provide details about the teams, goals scored, and stage of the tournament.
     
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/21f1fe1a-dcb6-46c2-b65a-448429714238)
+
+Output is:- https://tinyurl.com/gitoutput8
 
 # 3. Player and Coach Analysis
 
@@ -59,13 +71,19 @@ Output is:- https://tinyurl.com/gitoutput2
 
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/3df741a6-53e2-4d84-91c1-d5f214f75d0f)
 
+Output is:- https://tinyurl.com/gitoutput9
+
     List the starting lineup (player names and shirt numbers) for the French team in the 1998 World Cup final.
 
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/1c0be541-a093-42a6-b937-3d409ffb77f9)
-            
+
+Output is:- https://tinyurl.com/gitoutput10
+
     Which player scored the most goals in a single match in the 2010 World Cup? Provide details of the match.
     
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/de422680-c43d-45a6-9a1e-fe86d3ccfd7d)
+
+Output is:- https://tinyurl.com/gitoutput11
 
 # 4. Match and Tournament Trends
     
@@ -73,14 +91,19 @@ Output is:- https://tinyurl.com/gitoutput2
     
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/dc921d6a-2f66-4d52-a343-e3e469f6e02e)
 
+Output is:- https://tinyurl.com/gitoutput12
+
     Identify the team with the highest average attendance per match in the 2018 World Cup.
     
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/0f85851e-239d-4b0e-9959-6f33a5aa8d1b)
 
+Output is:- https://tinyurl.com/gitoutput13
     
     Which referee officiated the most matches in the 2014 World Cup?
     
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/20e8aa07-c292-41e4-b405-701422edeb1a)
+
+Output is:- https://tinyurl.com/gitoutput14
 
 # 5. Historical and Statistical Insights
 
@@ -89,6 +112,7 @@ Output is:- https://tinyurl.com/gitoutput2
     
 ![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/aeb9fea4-acb7-46c1-a986-66c06dadb4ed)
 
+Output is:- https://tinyurl.com/gitoutput15
 
 # Conclusion
 
