@@ -60,8 +60,8 @@ Output is:- https://tinyurl.com/gitoutput7
 
     Identify the match with the highest number of goals scored in the 2002 World Cup.
     Provide details about the teams, goals scored, and stage of the tournament.
-    
-![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/21f1fe1a-dcb6-46c2-b65a-448429714238)
+
+![image](https://github.com/Demblani07/FIFA-World-Cup/assets/139964555/c0c33e6a-910d-4d52-a5de-b318b5ad0c2f)
 
 Output is:- https://tinyurl.com/gitoutput8
 
